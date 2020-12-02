@@ -1,10 +1,10 @@
 # Freshworks-Backend-Assignment
 
+I have used python to create the backend for this application
 
-basic CRD (create, read, and delete)operations. 
-This data store is meant to be used as a local storage for one single process on one
-laptop. The data store must be exposed as a library to clients that can instantiate a class and work
-with the data store.
+The repository contains source code and access code to get input from the user.
+
+It supports basic CRD (create, read, and delete)operations.
 
 The data store will support the following functional requirements.
 1. It can be initialized using an optional file path. If one is not provided, it will reliably
